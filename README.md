@@ -1,1 +1,1 @@
-# spring-jenkins-test
+# 用于jenkins第二方法的测试（不要脚本）
